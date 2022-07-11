@@ -1,1 +1,1 @@
-# DataAnalysis-of-Fashion-Industry
+# Data-Analysis-of-Fashion-Industry
